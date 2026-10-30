@@ -1,0 +1,14 @@
+name: InteriosBots
+version: 1.0.0
+main: com.interio.bots.InteriosBotsPlugin
+api-version: '1.21.11'
+softdepend: [FancyNpcs]
+commands:
+  interiobot:
+    description: Manage Interios Bots
+    usage: /interiobot help
+    aliases: [ibot]
+permissions:
+  interiobots.admin:
+    description: Allows managing Interios Bots
+    default: op

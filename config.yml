@@ -1,0 +1,6 @@
+# Interios Bots configuration
+mass-spawn-count: 10
+mass-spawn-radius: 4.0
+max-bots-per-player: 20
+# FancyNpcs is planned as the player-NPC display integration.
+# Combat AI is not included in this starter build.
